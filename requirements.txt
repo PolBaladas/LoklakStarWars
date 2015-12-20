@@ -1,0 +1,4 @@
+asyncoro==3.5
+requests==2.8.1
+wsgiref==0.1.2
+python-loklak-api==1.0.1
