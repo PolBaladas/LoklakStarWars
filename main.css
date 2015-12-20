@@ -1,0 +1,35 @@
+body,
+input,
+textarea,
+select {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #4c4c4c;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: #4c4c4c;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.tweets {
+  margin-left: 30%;
+}
+
+.tweets img{
+  width: 15px;
+  height: 15px;
+}
+.tweets .txt{
+  margin-left: 20%;
+}
+
+.madeby{
+  float:right;
+  margin-right: 20%;
+}
